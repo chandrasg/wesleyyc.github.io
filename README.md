@@ -1,6 +1,5 @@
 
-# <a href="chandrasg.github.io"> chandrasg.github.io </a>
 
-Code for ongoing site
+Code for an old website
 
 Thanks to WesleyyC and LandingPage for initial structure and templates.
